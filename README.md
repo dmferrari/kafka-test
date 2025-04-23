@@ -2,6 +2,10 @@
 
 This repository demonstrates a simple Kafka producer and consumer setup using Ruby. It uses Docker Compose to run Kafka and Zookeeper services locally.
 
+![Screenshot](public/screenshot.png)
+
+The screenshot above shows the output of the consumer receiving messages from the Kafka topic inside a Zellij session.
+
 ## Prerequisites
 
 - Ruby 3.2.2 (see `.ruby-version`)
